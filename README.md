@@ -13,3 +13,32 @@ Store transaction data securely using MySQL
 View expense summaries and transaction history
 
 User-friendly console-based interaction
+
+Technologies Used
+
+Python – Core application logic
+
+MySQL – Database for storing expense records
+
+MySQL Connector (mysql-connector-python) – Database connectivity
+
+Use Cases
+
+Personal finance management
+
+Academic mini-project or lab assignment
+
+Backend practice for Python and SQL integration
+
+Future Enhancements
+
+Graphical User Interface (GUI) using Tkinter or PyQt
+
+Monthly and yearly expense analytics
+
+Data visualization using charts
+
+User authentication system
+
+Export reports to CSV or PDF
+
