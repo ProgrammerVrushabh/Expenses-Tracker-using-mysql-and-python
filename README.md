@@ -42,3 +42,19 @@ User authentication system
 
 Export reports to CSV or PDF
 
+# Installation & Setup
+
+Follow the steps below to set up and run the Expense Tracker project on your local machine.
+
+Prerequisites
+
+Make sure the following are installed on your system:
+
+Python 3.8 or above
+
+MySQL Server
+
+pip (Python package manager)
+
+Any code editor (VS Code recommended)
+
